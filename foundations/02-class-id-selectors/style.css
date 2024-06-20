@@ -1,0 +1,19 @@
+.lightpink {
+    background-color: rgb(255, 137, 218);
+    font-family: Verdana, 'DejaVu Sans', sans-serif
+}
+
+#imblue {
+    color: rgb(0, 94, 255);
+    font-size: 36px;
+}
+
+#imgreen {
+    background-color: rgb(153, 227, 153);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.imbigger {
+    font-size: 24px;
+}
