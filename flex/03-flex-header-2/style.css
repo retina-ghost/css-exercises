@@ -12,6 +12,10 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
 }
 
 .profile-image {
@@ -22,11 +26,24 @@ body {
   height: 48px;
 }
 
+.links {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
 .logo {
   color: rebeccapurple;
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+}
+
+.right-side {
+  display: flex;
+  gap: 8px;
+  margin-left: auto;
+  align-items: center;
 }
 
 button {
